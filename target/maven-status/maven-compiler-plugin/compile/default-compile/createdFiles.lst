@@ -1,0 +1,4 @@
+com\gestionrpg\Rpgjava.class
+com\gestionrpg\controlador\PersonajeController.class
+com\gestionrpg\modelo\Personaje.class
+com\gestionrpg\repositorio\PersonajeRepository.class
